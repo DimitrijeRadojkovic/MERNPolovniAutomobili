@@ -1,0 +1,7 @@
+@font-face {
+    font-family: mojfont;
+    src: url("SFPRODISPLAYREGULAR.OTF");
+}
+#root{
+    font-family: mojfont;
+}
